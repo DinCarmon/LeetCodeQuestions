@@ -24,3 +24,4 @@ tmp.cpp
 *.json
 **/*dSym*/
 **/*dSym
+*.DS_STORE
